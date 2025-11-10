@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarah Bansod
 
-<!--
-**sarahbansod07/sarahbansod07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **First-Year Computer Engineering Student** passionate about learning and building cool tech projects.  
+💻 I enjoy writing code, exploring new technologies, and improving my problem-solving skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+**Languages:**  
+- Python 🐍  
+- C 💡  
+- HTML, CSS, JavaScript 🌐  
+
+**Other Skills:**  
+- Communication 💬  
+- Music 🎵  
+
+---
+
+## 🌱 What I'm Currently Learning
+- Frontend Web Development  
+- Data Structures and Algorithms  
+- Basic Projects using Python  
+
+---
+
+## 💡 Goals
+- Contribute to open source 🧩  
+- Build personal projects 💻  
+- Keep growing as a developer 🚀  
+
+---
+
+## 📫 Connect with Me
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+⭐️ _“Code. Create. Communicate.”_
