@@ -14,7 +14,8 @@
 
 **Other Skills:**  
 - Communication 💬  
-- Music 🎵  
+- Music 🎵
+- critical analyser
 
 ---
 
@@ -34,9 +35,9 @@
 
 ## 📫 Connect with Me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** [sarahbansod07@gmail.com](mailto:your-email@example.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/sarah-bansod-99386336a/](https://linkedin.com/in/yourprofile)  
+- **GitHub:** [github.com/sarahbansod07](https://github.com/yourusername)
 
 ---
 
