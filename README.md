@@ -15,12 +15,12 @@
 **Other Skills:**  
 - Communication 💬  
 - Music 🎵
-- critical analyser
+- Critical Thinker💥
 
 ---
 
 ## 🌱 What I'm Currently Learning
-- Frontend Web Development  
+- Backend Web Development  
 - Data Structures and Algorithms  
 - Basic Projects using Python  
 
